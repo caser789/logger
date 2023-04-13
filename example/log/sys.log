@@ -1,3 +1,0 @@
-2023-04-13 16:34:31.347211+08:00|error|example/example_test.go:129|-|test sys log
-2023-04-13 16:34:31.347691+08:00|info|example/example_test.go:144|-|sys_info
-2023-04-13 16:34:31.347734+08:00|error|example/example_test.go:145|-|sys_error
