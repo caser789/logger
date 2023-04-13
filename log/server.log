@@ -1,7 +1,0 @@
-2023-04-13 16:34:40.450087+08:00|info|example/main.go:22|-|hello|{"test":"test"}
-2023-04-13 16:34:40.45048+08:00|error|example/main.go:23|-|world|{"one":1}
-2023-04-13 16:34:41.451499+08:00|info|example/main.go:22|-|hello|{"test":"test"}
-2023-04-13 16:34:41.45157+08:00|error|example/main.go:23|-|world|{"one":1}
-2023-04-13 16:34:42.452184+08:00|error|example/main.go:32|-|world|{"one":1}
-2023-04-13 16:34:43.452653+08:00|info|example/main.go:40|-|hello|{"test":"test"}
-2023-04-13 16:34:43.452681+08:00|error|example/main.go:41|-|world|{"one":1}
