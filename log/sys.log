@@ -1,0 +1,7 @@
+2023-04-13 16:34:40.45049+08:00|info|example/main.go:24|-|good|{"test":"test"}
+2023-04-13 16:34:40.450593+08:00|error|example/main.go:25|-|bye|{"one":1}
+2023-04-13 16:34:41.451578+08:00|info|example/main.go:24|-|good|{"test":"test"}
+2023-04-13 16:34:41.451587+08:00|error|example/main.go:25|-|bye|{"one":1}
+2023-04-13 16:34:42.45225+08:00|error|example/main.go:34|-|bye|{"one":1}
+2023-04-13 16:34:43.452689+08:00|info|example/main.go:42|-|good|{"test":"test"}
+2023-04-13 16:34:43.452696+08:00|error|example/main.go:43|-|bye|{"one":1}

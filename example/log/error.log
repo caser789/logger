@@ -1,0 +1,7 @@
+2023-04-13 16:34:31.347096+08:00|error|example/example_test.go:128|-|test default error
+2023-04-13 16:34:31.347819+08:00|error|example/example_test.go:148|-|user_error
+2023-04-13 16:34:31.347869+08:00|panic|example/example_test.go:149|-|panic
+github.com/caser789/logger/example.TestWithoutSplitLog
+	/Users/jiao.xue/go/src/github.com/caser789/logger/example/example_test.go:149
+testing.tRunner
+	/usr/local/go/src/testing/testing.go:1576

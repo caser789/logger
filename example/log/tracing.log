@@ -1,0 +1,5 @@
+2023-04-13 16:34:31.345791+08:00|info|example/example_test.go:57|-|info
+2023-04-13 16:34:31.346342+08:00|info|example/example_test.go:96|-|info
+2023-04-13 16:34:31.346852+08:00|info|example/example_test.go:109|-|haha
+2023-04-13 16:34:31.347004+08:00|info|example/example_test.go:125|-|test user log
+2023-04-13 16:34:31.347781+08:00|info|example/example_test.go:147|-|user_info
